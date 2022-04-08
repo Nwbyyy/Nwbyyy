@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Nwbyyy
-- 👀 I’m interested in ... gaming and now look at me, im going to major in cs
-- 🌱 I’m currently learning ... java and python
-- 💞️ I’m looking to collaborate on ... anything if you trust me ;) 
-- 📫 How to reach me ... discord Nwby#3439
+Someone fr got to 'nwby' before me :|
+
+I'm (the real) Nwby :D I play games sometimes and have commited myself to learning code. 
+Currently a beginner in both Java and Python (calling myself a beginner until the end of time)
+
+Nwby#3439
 
 <!---
 Nwbyyy/Nwbyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

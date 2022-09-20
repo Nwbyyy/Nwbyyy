@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/nwbyyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nwbyyy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nixonshowalter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nixonshowalter" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/nwby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nwby" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19809149/nwby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nwby" height="30" width="40" /></a>
 <a href="https://instagram.com/nwbyyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nwbyyy" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/nwbyyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nwbyyy" height="30" width="40" /></a>
 </p>

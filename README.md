@@ -1,5 +1,3 @@
-Someone fr got to 'nwby' before me :|
-
 <h1 align="center">Hi 👋, I'm Nixon "Nwbyyy"</h1>
 <h3 align="center">A Computer Science student attending Worcester Polytechnic Institute</h3>
 

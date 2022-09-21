@@ -2,6 +2,7 @@
 <h3 align="center">A Computer Science student attending Worcester Polytechnic Institute</h3>
 
 - 🔭 I’m currently working on [Big-Brother-Python-Sim](https://github.com/waltonpelkey/Big-Brother-Python-Sim)
+- 🔭 I’m currently working on [Big-Brother-Python-Sim](https://github.com/waltonpelkey/Big-Brother-Python-Sim) with [Walton Pelkey](https://github.com/waltonpelkey)
 
 - 📫 How to reach me **Nwby#3439**
 

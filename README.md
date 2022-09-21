@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Nixon "Nwbyyy" 👨‍💻</h1> 
 <h3 align="center">A Computer Science student attending Worcester Polytechnic Institute</h3>
 
-- 🦔 I’m currently working on ________
+- 🦔 I’m currently working on [Keep-The-Creature](https://github.com/Nwbyyy/Keep-The-Creature)
 - 🫂 I’m currently helping with [Big-Brother-Python-Sim](https://github.com/waltonpelkey/Big-Brother-Python-Sim) with [Walton Pelkey](https://github.com/waltonpelkey)
 
 - 📫 How to reach me **Nwby#3439** on Discord

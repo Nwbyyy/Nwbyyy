@@ -4,7 +4,7 @@
 - 🦔 I’m currently working on [REDACTED]
 - 🫂 I’m currently helping with [Big-Brother-Python-Sim](https://github.com/waltonpelkey/Big-Brother-Python-Sim) with [Walton Pelkey](https://github.com/waltonpelkey)
 
-- 📫 How to reach me **Nwby#3439** on Discord
+- 📫 Reach me on Discord: **Nwby#3439**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

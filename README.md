@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Nixon "Nwbyyy" 👨‍💻</h1> 
 <h3 align="center">A Computer Science student attending Worcester Polytechnic Institute</h3>
 
-- 🦔 I’m currently working on [REDACTED]
+- 📑 I’m currently working on [REDACTED]
 - 🫂 I’m currently helping with [WiDS-Datathon-2023-by-Kirby-Kids-WPI](https://github.com/Nwbyyy/WiDS-Datathon-2023-by-Kirby-Kids-WPI) with [Walton Pelkey](https://github.com/waltonpelkey), [Kim Allise](https://github.com/KimAllise32), and Izabella
 
 - 📫 Reach me on Discord: **Nwby#3439**

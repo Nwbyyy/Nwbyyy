@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Nixon "Nwbyyy" 👨‍💻</h1> 
 <h3 align="center">A Computer Science/Data Science undergraduate student attending Worcester Polytechnic Institute</h3>
 
-- 📑 I’m currently working on [savings-organizer](https://github.com/Nwbyyy/savings-organizer)
+- 🧮 I’m currently working on [savings-organizer](https://github.com/Nwbyyy/savings-organizer)
 - 🫂 I’m currently helping with [REDACTED]
 
 - 📫 Reach me on Discord: **Nwby#3439**

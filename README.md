@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Nixon "Nwbyyy" 👨‍💻</h1> 
 <h3 align="center">A Computer Science/Data Science undergraduate student attending Worcester Polytechnic Institute</h3>
 
-- 🧮 I’m currently working on [savings-organizer](https://github.com/Nwbyyy/savings-organizer)
+- 🧮 I’m currently working on [REDACTED]
 - 🫂 I’m currently helping with [REDACTED]
 
 - 📫 Reach me on Discord: **Nwby#3439**
@@ -21,4 +21,5 @@
 <!---
 Nwbyyy/Nwbyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+[savings-organizer](https://github.com/Nwbyyy/savings-organizer)
 --->

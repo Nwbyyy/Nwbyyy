@@ -4,7 +4,7 @@
 - 🧮 I’m currently working on classes at WPI <3
 - 🫂 I’m currently helping with [REDACTED]
 
-- 📫 Reach me on Discord: **Nwby#3439**
+- 📫 Reach me on Discord: **Nwby**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

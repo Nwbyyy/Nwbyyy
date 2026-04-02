@@ -2,9 +2,9 @@
 <h3 align="center">A Computer Science/Data Science undergraduate student attending Worcester Polytechnic Institute</h3>
 
 - 🧮 I’m currently working on classes at WPI <3
-- 🫂 I’m currently helping with [REDACTED]
+- 🫂 I’m currently helping with LEMURS RADAR Clinical Dashboard
 
-- 📫 Reach me on Discord: **Nwby**
+- 📫 Reach me on Discord: **nwby**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

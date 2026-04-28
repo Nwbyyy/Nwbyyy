@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [graduating from WPI <3](https://www.wpi.edu/)
 
-- 🌱 I’m currently learning **GoLang**
-
 - 👯 I’m currently collaborating on [LEMURS RADAR Clincial Dashboard](https://github.com/mqp-dashboard-lemurs-2025-2026/lemurs-radar)
 
-- 📫 How to reach me via Discord **nwby**
+- 🌱 I’m currently learning **GoLang**
